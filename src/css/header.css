@@ -63,7 +63,6 @@
 .backdrop-mobal {
   position: fixed;
   top: 0;
-  right: 0;
   width: 100%;
   height: 100%;
   background-color:  rgba(18, 18, 18, 0.40);
@@ -72,7 +71,6 @@
 
 .modal-burger {
   position: absolute;
-  top: 0;
   right: 0;
   background-color: #bfa8a0;
   width: 52%;
@@ -80,7 +78,6 @@
 }
 
 .button-burger {
-  fill: #121212;
   background: none;
   border: none;
   cursor: pointer;
